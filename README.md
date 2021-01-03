@@ -1,5 +1,6 @@
 # lab4_zad11
-c
+jezyk c
+
 Napisać program, który wyznacza:​
 
 wektor sum liczb na odpowiadających sobie pozycjach (sumę wektorów przepisać do nowego wektora (tablicy) przekazywanej do funkcji liczącej sumę)​
